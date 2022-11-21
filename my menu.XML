@@ -1,0 +1,22 @@
+<menu>
+	<food>
+	<name>Pizza</name>
+	<price>$20</price>
+	<cal>500</cal>
+	</food>
+	<food>
+	<name>Tomyam</name>
+	<price>$40</price>
+	<cal>300</cal>
+	</food>
+	<food>
+	<name>Bread</name>
+	<price>$90</price>
+	<cal>800</cal>
+	</food>
+	<food>
+	<name>ข้าวเหนียวมะม่วง</name>
+	<price>$90</price>
+	<cal>800</cal>
+	</food>
+</menu>
